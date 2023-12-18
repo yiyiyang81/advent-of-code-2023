@@ -40,8 +40,6 @@ def part2(data):
                 dict[i] +=copies
     print(sum(dict.values()))
 
-        
-    
 
 part1(data)
 
